@@ -1,3 +1,4 @@
 French num : #^0\d([ -\.]?\d{2}){4}$#
 Email : #[a-z.0-9_-]+@[a-z.0-9_-]{2,}\.[a-z]{2,4}$#
 French date : #^(\d{2}\/){2}\d{4}$#
+6digits Sauce : #^\d{6}$#
